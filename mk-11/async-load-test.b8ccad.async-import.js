@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{147:function(n,e,t){"use strict";t.r(e),t.d(e,"AsyncLoadTest",function(){return o});var a=t(0),c=t.n(a);function o(){return c.a.createElement("h1",null,"I am loaded async!")}}}]);
